@@ -1,0 +1,26 @@
+{
+  "name": "recipe-buddy",
+  "version": "1.0.0",
+  "dependencies": {
+    "actions-on-google": "^1.6.1",
+    "firebase-admin": "^5.5.1",
+    "firebase-functions": "^0.7.3",
+    "recipe-ingredient-parser": "^1.5.3",
+    "async": "^2.6.0",
+    "request": "^2.83.0"
+  },
+  "description": "A smart home integration that assists you in finding a recipe and ordering the ingredients!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theRoughCode/Recipe-Buddy.git"
+  },
+  "author": "Raphael Koh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theRoughCode/Recipe-Buddy/issues"
+  },
+  "engines": {
+    "node": "~4.2"
+  },
+  "homepage": "https://github.com/theRoughCode/Recipe-Buddy#readme"
+}
